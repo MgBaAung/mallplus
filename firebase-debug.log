@@ -1,0 +1,19 @@
+[debug] [2024-04-14T14:20:42.122Z] ----------------------------------------------------------------------
+[debug] [2024-04-14T14:20:42.127Z] Command:       /usr/local/bin/node /usr/local/bin/firebase projects:list --json
+[debug] [2024-04-14T14:20:42.128Z] CLI Version:   13.0.2
+[debug] [2024-04-14T14:20:42.128Z] Platform:      darwin
+[debug] [2024-04-14T14:20:42.128Z] Node Version:  v20.10.0
+[debug] [2024-04-14T14:20:42.129Z] Time:          Sun Apr 14 2024 07:20:42 GMT-0700 (Pacific Daylight Time)
+[debug] [2024-04-14T14:20:42.129Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2024-04-14T14:20:42.136Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2024-04-14T14:20:42.136Z] > authorizing via signed-in user (app.com.mm@gmail.com)
+[debug] [2024-04-14T14:20:42.143Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects pageSize=1000
+[debug] [2024-04-14T14:20:53.258Z] *** [apiv2] error from fetch(https://firebase.googleapis.com/v1beta1/projects?pageSize=1000, {"headers":{},"method":"GET","signal":{}}): FetchError: request to https://firebase.googleapis.com/v1beta1/projects?pageSize=1000 failed, reason: socket hang up
+[debug] [2024-04-14T14:20:53.258Z] Failed to make request to https://firebase.googleapis.com/v1beta1/projects?pageSize=1000
+[debug] [2024-04-14T14:20:58.269Z] Error: Timed out.
+    at Timeout._onTimeout (/usr/local/lib/node_modules/firebase-tools/lib/utils.js:258:49)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[error] 
+[error] Error: An unexpected error has occurred.

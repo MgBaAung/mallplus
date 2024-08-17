@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "894711434274",
+    "project_id": "mallplusmm-customer",
+    "storage_bucket": "mallplusmm-customer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894711434274:android:bdc6f50fd40d88851dce7b",
+        "android_client_info": {
+          "package_name": "com.mallplusmm.biker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894711434274-jsc0ime44649rhgh07teda54357qi634.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXFoPASkJQNaM8Mz0oeJP53xAhFPVt84A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894711434274-jsc0ime44649rhgh07teda54357qi634.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "894711434274-1cej586i8nnfc3ve01iamold4135n33e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mallplusmm.mallPlusCustomer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894711434274:android:eceb90b9888521791dce7b",
+        "android_client_info": {
+          "package_name": "com.mallplusmm.mallPlusCustomer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894711434274-jsc0ime44649rhgh07teda54357qi634.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXFoPASkJQNaM8Mz0oeJP53xAhFPVt84A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894711434274-jsc0ime44649rhgh07teda54357qi634.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "894711434274-1cej586i8nnfc3ve01iamold4135n33e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mallplusmm.mallPlusCustomer"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894711434274:android:3b3a9a8eecf9664d1dce7b",
+        "android_client_info": {
+          "package_name": "com.mallplusmm.restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894711434274-jsc0ime44649rhgh07teda54357qi634.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXFoPASkJQNaM8Mz0oeJP53xAhFPVt84A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894711434274-jsc0ime44649rhgh07teda54357qi634.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "894711434274-1cej586i8nnfc3ve01iamold4135n33e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mallplusmm.mallPlusCustomer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

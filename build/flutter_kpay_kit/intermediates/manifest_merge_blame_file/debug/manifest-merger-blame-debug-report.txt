@@ -1,0 +1,23 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.kwinlab.flutter_kpay_kit" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="21"
+6-->/Users/user/Desktop/My_Mall_Plus/flutter_kpay_kit/android/src/main/AndroidManifest.xml
+7        android:targetSdkVersion="21" />
+7-->/Users/user/Desktop/My_Mall_Plus/flutter_kpay_kit/android/src/main/AndroidManifest.xml
+8
+9    <application>
+9-->/Users/user/Desktop/My_Mall_Plus/flutter_kpay_kit/android/src/main/AndroidManifest.xml:4:5-9:19
+10        <activity
+10-->/Users/user/Desktop/My_Mall_Plus/flutter_kpay_kit/android/src/main/AndroidManifest.xml:5:9-8:39
+11            android:name="com.kbzbank.payment.sdk.callback.CallbackResultActivity"
+11-->/Users/user/Desktop/My_Mall_Plus/flutter_kpay_kit/android/src/main/AndroidManifest.xml:6:13-83
+12            android:exported="true"
+12-->/Users/user/Desktop/My_Mall_Plus/flutter_kpay_kit/android/src/main/AndroidManifest.xml:8:13-36
+13            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+13-->/Users/user/Desktop/My_Mall_Plus/flutter_kpay_kit/android/src/main/AndroidManifest.xml:7:13-72
+14    </application>
+15
+16</manifest>
